@@ -1,6 +1,6 @@
-\# Java Tech Mastery for Project Managers 🚀
+# Java Tech for Project Managers 🚀
 
-\### Maestria Técnica em Java para Gerentes de Projeto
+### Estudo em JAVA
 
 
 
@@ -16,19 +16,19 @@ Bem-vindo ao meu repositório de evolução técnica! Sou \*\*Gerente de Projeto
 
 
 
-\## 👨‍💻 About Me / Sobre Mim
+## 👨‍💻 About Me / Sobre Mim
 
-\- \*\*Focus:\*\* Backend Development with Java \& Spring Boot.
+**Focus:** Backend Development with Java \& Spring Boot.
 
-\- \*\*Experience:\*\* Project Management and Systems Analysis.
+**Experience:** Project Management and Systems Analysis.
 
-\- \*\*Language Level:\*\* Currently improving my English skills. This repository is part of my technical and language learning journey.
+**Language Level:** Currently improving my English skills. This repository is part of my technical and language learning journey.
 
-\- \*\*Objetivo:\*\* Desenvolvimento Backend com Java e Spring Boot.
+**Objetivo:** Desenvolvimento Backend com Java e Spring Boot.
 
-\- \*\*Experiência:\*\* Gestão de Projetos e Processos, além de atuar como analista em diversos setores ao longo da cadeia produtiva empresarial.
+**Experiência:** Gestão de Projetos e Processos, além de atuar como analista em diversos setores ao longo da cadeia produtiva empresarial.
 
-\- \*\*Inglês:\*\* Atualmente aprimorando minhas habilidades. Este repositório faz parte da minha jornada de aprendizado técnico e linguístico.
+**Inglês:** Atualmente aprimorando minhas habilidades. Este repositório faz parte da minha jornada de aprendizado técnico e linguístico.
 
 
 
@@ -54,17 +54,19 @@ Bem-vindo ao meu repositório de evolução técnica! Sou \*\*Gerente de Projeto
 
 
 
-\## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-\- \*\*Java JDK 17\*\*
-
-\- \*\*Spring Tool Suite (STS)\*\*
-
-\- \*\*Git \& GitHub\*\*
-
+- Business Intelligence
+- Projetos & Processos
+- Business Canvas
+- Power BI 
+- DAX
+- Power Query
+- Excel
+- Google Sheets 
 
 
 ---
 
-\*"The best way to predict the future is to invent it."\*
+**_"The best way to predict the future is to invent it."_**
 
