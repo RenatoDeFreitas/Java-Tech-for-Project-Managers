@@ -1,0 +1,22 @@
+# Pastas de compilação e binários (Lixo de processamento)
+bin/
+target/
+*.class
+
+# Configurações de IDE (Eclipse/STS/IntelliJ) 
+# Isso evita que o seu ambiente pessoal "suje" o repo
+.metadata/
+.settings/
+.classpath
+.project
+.factorypath
+.sts4-cache/
+.recommenders/
+
+# Arquivos de sistema
+Thumbs.db
+.DS_Store
+
+# Segurança: Se criar arquivos de configuração local no Spring
+# remova o '#' da linha abaixo se não quiser subir senhas futuramente:
+# application-local.properties
