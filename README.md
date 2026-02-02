@@ -1,4 +1,4 @@
-# Java Tech for Project Managers 🚀
+# Java Technology: A Learning Journey 🚀
 
 ### Estudo em JAVA
 
