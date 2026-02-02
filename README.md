@@ -10,7 +10,7 @@ Welcome to my technical evolution repository! I am a \*\*Project Manager\*\* and
 
 Bem-vindo ao meu repositório de evolução técnica! Sou \*\*Gerente de Projetos\*\* e \*\*Analista de Sistemas\*\* expandindo minha expertise para o desenvolvimento de software com Java.
 
-
+**LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/gprenatofreitas-power-bi/)
 
 ---
 
@@ -64,6 +64,7 @@ Bem-vindo ao meu repositório de evolução técnica! Sou \*\*Gerente de Projeto
 - Power Query
 - Excel
 - Google Sheets 
+
 
 
 ---
