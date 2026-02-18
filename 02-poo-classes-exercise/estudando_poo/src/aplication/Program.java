@@ -39,7 +39,10 @@ public class Program {
 		y.c = teclado.nextDouble();
 
 		
-		//CALCULO DA AREA - TRIANGULO USANDO O METODO DA CLASSE
+		/*CALCULO DA AREA USANDO O METODO DA CLASSE 
+		 * 		COMPORTAMENTO DO OBJETO TRIANGULO 
+		 * 				CHAMA A "FUNCAO" - [ METODO ] PARA SER FEITO O CALCULO
+		*/
 		double areaX = x.area();
 		double areaY = y.area();
 		
