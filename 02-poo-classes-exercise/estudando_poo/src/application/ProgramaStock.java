@@ -15,22 +15,22 @@ public class ProgramaStock {
 		 * tipo da variável é Produto (classe Produto)
 		 * CRIA INSTANCIA (Objeto Produto) se comporta conforme determinado pela classe Produto 
 		 */
-		Produto produto = new Produto();	//objeto Produto		
 
+		
 		System.out.println("Dados do Produto");
 		
 		System.out.print("Nome do produto: ");
-		produto.nome = teclado.nextLine();
+		String nome = teclado.nextLine();
 		
 		System.out.print("Informe o preço do protudo: ");
-		produto.preco = teclado.nextDouble();
+		double preco = teclado.nextDouble();
 		
-		System.out.print("Quantidade em estoque: ");
-		produto.quantidade = teclado.nextInt();
+		Produto produto = new Produto(nome, preco); 	//COSTRUTOR recebe parâmetro antes de iniciar
 		
 		System.out.println();
 		System.out.println("Dados do Produto: "+ produto);
 		
+		System.out.println();
 		System.out.println("Digite o número de produtos adicionados no estoque: ");
 		int quantidade = teclado.nextInt();
 		produto.addProdutos(quantidade);

@@ -7,6 +7,27 @@ public class Produto {
 	public double preco;
 	public int quantidade;
 
+	/* CONTRUTOR fica depois dos atributos 
+	 * antes dos métodos
+	 *  
+	 */
+	
+	//CONSTRUTOR 01  (public + nome da classe <> não tem o tipo <> dita as regras para instânciar)
+	public Produto(String nome,double preco, int quantidade) {
+		 this.nome = nome;
+		 this.preco = preco;
+		 this.quantidade = quantidade;
+	}
+	//CONSTRUTOR 02  (iniciar quantidade com zero)
+	public Produto(String nome,double preco) {
+		this.nome = nome;
+		this.preco = preco;
+	}
+	
+	
+	// APÓS construtors ENTRA -> gettes e setters  
+	
+	
 	// METODOS
 	public double valorTotalEstoque() {
 		return preco * quantidade;
