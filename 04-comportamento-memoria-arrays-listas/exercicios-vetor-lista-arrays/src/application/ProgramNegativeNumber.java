@@ -16,7 +16,7 @@ public class ProgramNegativeNumber {
 		System.out.println("Digite o número de repetições entre 2 a 10");
 		int n = teclado.nextInt();
 		
-		while (n < 1 || n > 10) {
+		while (n < 1 || n > 10) {			//VALIDA INTERVALO entre 2 a 10
 			System.out.println("Número inválido! Digite novamente:");
 			n = teclado.nextInt();
 		}
@@ -26,12 +26,12 @@ public class ProgramNegativeNumber {
 		for (int i = 0; i < vect.length; i++) {
 			System.out.print("Digite um número inteiro qualquer: ");
 			int numero = teclado.nextInt();
-			vect[i] = numero;
+			vect[i] = numero;			//INSTANCIANDO DADO AO VETOR
 		}
 		System.out.println();
 		System.out.println("------ NEGATIVOS ------");
 		for (int i = 0; i < vect.length; i++) {
-			if (vect[i] < 0) {
+			if (vect[i] < 0) {			//CAPTURA NEGATIVOS
 				System.out.println(vect[i]);
 			}
 		}
@@ -39,17 +39,17 @@ public class ProgramNegativeNumber {
 		System.out.println();
 		System.out.println("------ POSITIVOS ------");
 		for (int i=0; i < vect.length; i++) {
-			if(vect[i] > 0) {
+			if(vect[i] > 0) {			//CAPTURA POSITIVOS
 				System.out.println(vect[i]);
 			} 
 		}
 		
 			for (int i = 0; i < vect.length; i++) {
-				if (vect[i] < 0) {
+				if (vect[i] < 0) {			//SOMA NEGATIVOS
 					somaNegativos += vect[i];
 				} 
 				else {
-					somaPositivos += vect[i];
+					somaPositivos += vect[i];		//SOMA POSITIVO
 				}
 			}
 
